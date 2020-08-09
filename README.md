@@ -9,9 +9,9 @@ A command line application that uses a Node CLI, to take in information about em
 
 * [Test](#Test)
 
-* [Demo](#Video Demo)
+* [video](#Video-Demo)
 
-* [Demo](#Gif Demo)
+* [gif](#Gif-Demo)
 
 * [Generated File](#Output)
 
@@ -31,10 +31,10 @@ The test was run using jest:
 
 ![test](./Assets/Test.png) 
 
-## Video Demo
+## Video-Demo
 Link to the demo video of the application: https://drive.google.com/file/d/1uHIB50xsX2Xc09NqO2mPuPEfoG-ROTk7/view?usp=sharing
 
-## Gif Demo
+## Gif-Demo
 Below is a gif demo on how to run the application
 
 ![demoGif](./Assets/Demo.gif)
