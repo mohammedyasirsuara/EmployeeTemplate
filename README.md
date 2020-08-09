@@ -29,8 +29,11 @@ The test was run using jest:
 
 ![test](./Assets/Test.png) 
 
-## Demo
-Below is a demo on how to run the application
+## Video Demo
+Link to the demo video of the application: https://drive.google.com/file/d/1uHIB50xsX2Xc09NqO2mPuPEfoG-ROTk7/view?usp=sharing
+
+## Gif Demo
+Below is a gif demo on how to run the application
 
 ![demoGif](./Assets/Demo.gif)
 
