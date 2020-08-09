@@ -9,9 +9,9 @@ A command line application that uses a Node CLI, to take in information about em
 
 * [Test](#Test)
 
-* [video](#Video-Demo)
+* [Video Demo](#Video-Demo)
 
-* [gif](#Gif-Demo)
+* [Gif Demo](#Gif-Demo)
 
 * [Generated File](#Output)
 
